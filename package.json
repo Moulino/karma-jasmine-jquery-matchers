@@ -1,0 +1,26 @@
+{
+  "name": "karma-jasmine-jquery",
+  "version": "2.1.1",
+  "description": "A Karma plugin - Additional jquery matchers for the Jasmine BDD JavaScript testing library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moulino?tab=repositories"
+  },
+  "keywords": [
+    "karma",
+    "plugin",
+    "jasmine",
+    "jquery",
+    "matchers"
+  ],
+  "author": "Emmanuel Olive",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-jquery": "^2.1.1",
+    "jquery": "^2.1.1"
+  }
+}
