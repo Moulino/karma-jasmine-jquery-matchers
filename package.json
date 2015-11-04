@@ -1,5 +1,5 @@
 {
-  "name": "karma-jasmine-jquery",
+  "name": "karma-jasmine-jquery-matchers",
   "version": "1.0.0",
   "description": "A Karma plugin - Additional jquery matchers for the Jasmine BDD JavaScript testing library.",
   "main": "index.js",
